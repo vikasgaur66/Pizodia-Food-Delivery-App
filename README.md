@@ -1,16 +1,18 @@
-# pizoodia_customer
+# Pizodia 🍕
 
-A new Flutter project.
+A local food delivery app built using Flutter & Firebase.
 
-## Getting Started
+## Features
+- User Authentication
+- Cart System
+- Order Placement (Cash on Delivery)
+- Order History & Status Tracking
+- Feedback System
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Firebase Auth
+- Cloud Firestore
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Note
+Firebase config files are not included for security reasons.
